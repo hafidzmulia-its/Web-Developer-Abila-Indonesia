@@ -247,7 +247,7 @@ a {
   }
   .account-text {
     display: initial;
-    /* margin-top: 1.4 rem; */
+    margin-top: 1.4rem;
   }
 }
 @media (maxwidth: 450px) {
